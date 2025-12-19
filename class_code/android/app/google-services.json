@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "251110993813",
+    "firebase_url": "https://consistente-vehicleparts-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "consistente-vehicleparts",
+    "storage_bucket": "consistente-vehicleparts.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251110993813:android:aafc88d54a9675c307109c",
+        "android_client_info": {
+          "package_name": "com.example.car_parts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqSwT2txgpqJoTPmEm0_uVRCBWgSbFxlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
