@@ -1,0 +1,10 @@
+0 Steering wheel
+1 Gear shift
+2 Car dashboard
+3 Speedometer
+4 Rearview mirrow
+5 Car set
+6 Seatbelt
+7 Car key
+8 Air vents
+9 Touchscreen display
