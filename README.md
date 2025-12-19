@@ -1,17 +1,16 @@
 <h1 align="center">👋 WELCOME TO MY PROFILE</h1>
 
-<h2 align="center"><strong>Leyo Consistente</strong></h2>
+<h2 align="center"><strong>Leonard Leyo Consistente</strong></h2>
 
 <p align="center"><em>IT Student</em></p>
-
 
 ---
 
 ## 🙋‍♂️ About Me
 
-I am an IT student with hands-on experience in web application development, 
-and I am currently expanding my skills into mobile app development using Flutter and Firebase.
-I enjoy building real-world applications, focusing on functionality, usability, and clean UI design across both web and mobile platforms.
+I am an IT student with hands-on experience in web application development,  
+and I am currently expanding my skills into mobile app development using **Flutter and Firebase**.  
+I enjoy building real-world applications with a focus on functionality, usability, and clean UI design across both web and mobile platforms.  
 I am passionate about learning new technologies and continuously improving my skills in software development.
 
 ---
@@ -45,7 +44,6 @@ I am passionate about learning new technologies and continuously improving my sk
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
 ---
 
 ## 📚 Learning & Development
@@ -61,7 +59,7 @@ I am passionate about learning new technologies and continuously improving my sk
 
 - [ ] Build and publish a complete mobile app using **Flutter + Firebase**
 - [ ] Contribute to at least one open-source project
-- [ ] Learn a new backend or cloud technology to strengthen full‑stack skills
+- [ ] Learn a new backend or cloud technology to strengthen full-stack skills
 - [ ] Join or complete a multi-week coding challenge to improve consistency
 - [ ] Create or refine a personal portfolio website to showcase projects
 
@@ -73,48 +71,67 @@ I enjoy designing clean, modern, and user-friendly interfaces that make apps enj
 
 ---
 
+## 🌟 Featured Project
+
+### 🚗 Car Parts Identifier – Flutter Mobile App
+
+**Car Parts Identifier** is a mobile application built using **Flutter** that allows users to identify different **car interior parts** through image scanning.
+
+The app uses an **image classification model** to recognize car components and provide useful information about each detected part.  
+It is designed for **learning, demonstration, and practical use**, especially for students, beginners, and car enthusiasts.
+
+#### 🔍 What the App Does
+- Scan car parts using the phone camera
+- Upload images from the gallery
+- Automatically identify the car part
+- Display confidence level for each prediction
+- Show part descriptions and basic usage information
+- Store scan history and statistics
+
+This project highlights my skills in **Flutter UI design**, **image-based recognition**, **data handling**, and **mobile app architecture**.
+
+---
+
 ## 🛠️ Car Parts Classes Overview
 
-Below is a quick overview of the car parts classes that **Car Parts Identifier** can recognize, with a short description and a sample image for each class.
+Below is a quick overview of the car parts classes that **Car Parts Identifier** can recognize.
 
-| Class Name             | Description                                                                                          | Sample Image |
-|------------------------|------------------------------------------------------------------------------------------------------|-------------|
-| **Air Vent**           | Ventilation system component that allows air to flow into the car cabin. Used for climate control and air circulation. | <img src="class_type/air vent.jpg" width="90" alt="Air Vent"> |
-| **Car Dashboard**      | The main control panel located in front of the driver. Contains instruments, controls, and displays for vehicle operation. | <img src="class_type/car dashboard.jpg" width="90" alt="Car Dashboard"> |
-| **Car Key**            | Key used to start the vehicle and unlock doors. Modern versions may include remote control or keyless entry features. | <img src="class_type/car key.jpg" width="90" alt="Car Key"> |
-| **Car Seat**           | Seating component designed for passenger comfort and safety. Includes adjustable features and safety restraints. | <img src="class_type/car seat.jpg" width="90" alt="Car Seat"> |
-| **Gear Shift**         | Control mechanism for changing gears in manual or automatic transmissions. Allows driver to select driving mode. | <img src="class_type/gear shift.jpg" width="90" alt="Gear Shift"> |
-| **Rearview Mirror**    | Mirror mounted inside the vehicle that allows the driver to see behind the car. Essential for safe driving and parking. | <img src="class_type/reareview mirror.jpg" width="90" alt="Rearview Mirror"> |
-| **Seatbelt**           | Safety restraint system designed to protect occupants during collisions. Should be worn at all times while driving. | <img src="class_type/seatbelt.jpg" width="90" alt="Seatbelt"> |
-| **Speedometer**        | Instrument that displays the vehicle's current speed. Located on the dashboard for easy monitoring while driving. | <img src="class_type/speedometer.jpg" width="90" alt="Speedometer"> |
-| **Steering Wheel**     | Control device used to steer the vehicle. Allows driver to change direction and maintain control of the car. | <img src="class_type/steering wheel.jpg" width="90" alt="Steering Wheel"> |
-| **Touchscreen Display**| Interactive screen interface in modern vehicles. Used for navigation, entertainment, climate control, and vehicle settings. | <img src="class_type/touchscreen display.jpg" width="90" alt="Touchscreen Display"> |
+| Class Name | Description | Sample Image |
+|-----------|-------------|--------------|
+| **Air Vent** | Allows air circulation inside the car cabin. | <img src="class_type/air vent.jpg" width="90"> |
+| **Car Dashboard** | Main control panel containing displays and controls. | <img src="class_type/car dashboard.jpg" width="90"> |
+| **Car Key** | Used to unlock and start the vehicle. | <img src="class_type/car key.jpg" width="90"> |
+| **Car Seat** | Provides comfort and safety for passengers. | <img src="class_type/car seat.jpg" width="90"> |
+| **Gear Shift** | Used to change driving gears. | <img src="class_type/gear shift.jpg" width="90"> |
+| **Rearview Mirror** | Allows the driver to see behind the vehicle. | <img src="class_type/reareview mirror.jpg" width="90"> |
+| **Seatbelt** | Safety restraint to protect passengers. | <img src="class_type/seatbelt.jpg" width="90"> |
+| **Speedometer** | Displays the vehicle’s current speed. | <img src="class_type/speedometer.jpg" width="90"> |
+| **Steering Wheel** | Controls vehicle direction. | <img src="class_type/steering wheel.jpg" width="90"> |
+| **Touchscreen Display** | Used for navigation and infotainment. | <img src="class_type/touchscreen display.jpg" width="90"> |
 
 ---
 
 ## 📸 App Screenshots
 
 ### 🏠 Main Screens
-
 <table>
   <tr>
-    <td><img src="class_screenshots/home.jpg" width="120" alt="Home Screen"></td>
-    <td><img src="class_screenshots/scan.jpg" width="120" alt="Scan Screen"></td>
+    <td><img src="class_screenshots/home.jpg" width="120"></td>
+    <td><img src="class_screenshots/scan.jpg" width="120"></td>
   </tr>
 </table>
 
 ### 📊 Statistics & History
-
 <table>
   <tr>
-    <td><img src="class_screenshots/statistic.jpg" width="120" alt="Statistics"></td>
-    <td><img src="class_screenshots/statistic1.jpg" width="120" alt="Statistics 1"></td>
-    <td><img src="class_screenshots/statistic2.jpg" width="120" alt="Statistics 2"></td>
+    <td><img src="class_screenshots/statistic.jpg" width="120"></td>
+    <td><img src="class_screenshots/statistic1.jpg" width="120"></td>
+    <td><img src="class_screenshots/statistic2.jpg" width="120"></td>
   </tr>
   <tr>
-    <td><img src="class_screenshots/history.jpg" width="120" alt="History"></td>
-    <td><img src="class_screenshots/scan1.jpg" width="120" alt="Scan 1"></td>
-    <td><img src="class_screenshots/scan2.jpg" width="120" alt="Scan 2"></td>
+    <td><img src="class_screenshots/history.jpg" width="120"></td>
+    <td><img src="class_screenshots/scan1.jpg" width="120"></td>
+    <td><img src="class_screenshots/scan2.jpg" width="120"></td>
   </tr>
 </table>
 
@@ -122,24 +139,24 @@ Below is a quick overview of the car parts classes that **Car Parts Identifier**
 
 ## 🚀 Key Features Summary
 
-| Feature                  | Description                                                                                                                     |
-|--------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| **Tool Image Capture & Upload** | Users can either scan a new tool using the camera or pick an existing photo from their gallery to use as input for recognition. |
-| **Automatic Tool Recognition**  | The app runs an image classification model to predict which tool class the image belongs to, based on the supported tool types.   |
-| **Confidence Indicator**       | Each prediction includes a confidence value so users can see how certain the model is about the detected tool.                      |
-| **Tool Details & Usage Tips**  | After a scan, users can view a short description of the tool, along with common uses and basic safety or handling tips.            |
-| **Usage Statistics**           | A simple stats screen summarizes how often each tool type has been scanned, giving users an overview of their scan activity.      |
-| **Scan History with Management** | Previous scans are stored with timestamps so users can review older results, and they can delete individual entries when needed.   |
+| Feature | Description |
+|-------|-------------|
+| **Image Capture & Upload** | Scan using camera or select from gallery |
+| **Automatic Recognition** | Classifies detected car parts |
+| **Confidence Indicator** | Shows prediction accuracy |
+| **Tool Details** | Displays part description and usage |
+| **Usage Statistics** | Tracks scan frequency |
+| **Scan History** | View and delete previous scans |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin2024-hub&theme=react-dark" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachin2024-hub&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sachin2024-hub&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight&hide_border=true" />
 </p>
