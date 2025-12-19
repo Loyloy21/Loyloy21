@@ -117,21 +117,21 @@ Below is a quick overview of the car parts classes that **Car Parts Identifier**
 <table>
   <tr>
     <td><img src="class_screenshots/home.jpg" width="120"></td>
-    <td><img src="class_screenshots/scan.jpg" width="120"></td>
+    <td><img src="class_screenshots/scan1.jpg" width="120"></td>
   </tr>
 </table>
 
 ### 📊 Statistics & History
 <table>
   <tr>
-    <td><img src="class_screenshots/statistic.jpg" width="120"></td>
-    <td><img src="class_screenshots/statistic1.jpg" width="120"></td>
-    <td><img src="class_screenshots/statistic2.jpg" width="120"></td>
-  </tr>
-  <tr>
     <td><img src="class_screenshots/history.jpg" width="120"></td>
-    <td><img src="class_screenshots/scan1.jpg" width="120"></td>
+    <td><img src="class_screenshots/scan.jpg" width="120"></td>
     <td><img src="class_screenshots/scan2.jpg" width="120"></td>
+  </tr>
+    <tr>
+    <td><img src="class_screenshots/statistic2.jpg" width="120"></td>
+    <td><img src="class_screenshots/statistic1.jpg" width="120"></td>
+    <td><img src="class_screenshots/statistic.jpg" width="120"></td>
   </tr>
 </table>
 
