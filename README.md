@@ -153,10 +153,10 @@ Below is a quick overview of the car parts classes that **Car Parts Identifier**
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Loyloy21&theme=react-dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Loyloy21&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Loyloy21&theme=tokyonight&hide_border=true" />
 </p>
