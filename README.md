@@ -67,29 +67,6 @@ I am passionate about learning new technologies and continuously improving my sk
 
 ---
 
-## ⭐ Featured Projects
-
-### 📱 Smart Attendance System
-
-RFID-based attendance system with scan history and statistics.
-
-### 💼 Job Application System
-
-A system for job seekers and employers with application tracking and resume management.
-
-### 💎 Jewelry Shop System
-
-An e-commerce-style system with login, product display, admin panel, and purchase features.
-
----
-
-## 🔗 Connect With Me
-
-* 📧 Email: xxsachinxx123@gmail.com
-* 🌐 Facebook: [Click here:](https://www.facebook.com/sachin.kumar.712709)
-
----
-
 ## ✨ Fun Fact
 
 I enjoy designing clean, modern, and user-friendly interfaces that make apps enjoyable to use.
