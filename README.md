@@ -1,6 +1,6 @@
 <h1 align="center">👋 WELCOME TO MY PROFILE</h1>
 
-<h2 align="center"><strong>Leonard Leyo Consistente</strong></h2>
+<h2 align="center"><strong>Leonard Consistente</strong></h2>
 
 <p align="center"><em>IT Student</em></p>
 
